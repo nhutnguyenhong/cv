@@ -77,6 +77,7 @@ Viet Nam | (+84) 982 138 664 | [Linkedin](https://linkedin.com/in/nhut-nguyen-ho
 
 #### Science University / Master Degree
 > hcmus.edu.vn, 2011 - 2014,  Ho Chi Minh. Master degree of Science in Information Systems.
+
 #### Agriculture and Forestry University / Engineering Degree
 > hcmuaf.edu.vn, 2004 -2008,  Ho Chi Minh. Engineering degree in Information Systems.
 
