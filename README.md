@@ -21,7 +21,7 @@
 zuehlke.com, Oct  2021 - Now (6 months+),  Ho Chi Minh
 > - Working as a Full Stack consultant with NodeJS, TypeScript, ReactJS, AWS Services for Singapore client projects.
 
-## 
+
 #### TYME GLOBAL
 tyme.com, July 2018 - Oct 2021 (3 year+),  Ho Chi Minh
 
@@ -40,7 +40,7 @@ tyme.com, July 2018 - Oct 2021 (3 year+),  Ho Chi Minh
 > - Development is based on agile methodologies.
 > - Trained and mentored junior developers and engineers, to improve overall team performance.
 > - T-shaped skills: Not only the major back-end skills but also can work with channel sides: ReactJS, Android application.
-## 
+
 
 
 #### AXON ACTIVE VIETNAM
@@ -73,7 +73,7 @@ accenture.com, September 2008 - February 2010 (1 years 5 months), Ho Chi Minh
 > hcmus.edu.vn, 2011 - 2014,  Ho Chi Minh. Master degree of Science in Information Systems.
 #### Agriculture and Forestry University / Engineering Degree
 > hcmuaf.edu.vn, 2004 -2008,  Ho Chi Minh. Engineering degree in Information Systems.
-ㅡ
+
 ## Certs
 
 #### [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/7d0fc38e-2ff5-4ef3-9fef-fdb45869c0b1?source=linked_in_profile) _AWS, Dec 2021_
