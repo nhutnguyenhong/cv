@@ -83,7 +83,7 @@ Viet Nam | (+84) 982 138 664 | [Linkedin](https://linkedin.com/in/nhut-nguyen-ho
 
 * * *
 
-## Certs
+## Certifications
 
 #### [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/7d0fc38e-2ff5-4ef3-9fef-fdb45869c0b1?source=linked_in_profile) _AWS, Dec 2021_
 #### [Oracle Certified Professional: Java SE 11 Developer](https://www.credly.com/badges/7ed5253d-04d3-46de-957d-127b82dbc288/public_url) _Oracle, Dec 2021_
