@@ -16,7 +16,7 @@ Viet Nam | (+84) 982 138 664 | [Linkedin](https://linkedin.com/in/nhut-nguyen-ho
 
 ## Experience
 
-#### ZUEHLKE / Advance Software Engineer
+#### ZUEHLKE / Advanced Software Engineer
 [zuehlke.com](https://zuehlke.com/), Oct  2021 - Now (6 months+),  Ho Chi Minh
 > - Working as a Full Stack consultant with NodeJS, TypeScript, ReactJS, AWS Services for Singapore client projects.
 
