@@ -86,9 +86,9 @@ Viet Nam | (+84) 982 138 664 | [Linkedin](https://linkedin.com/in/nhut-nguyen-ho
 ## Certs
 
 #### [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/7d0fc38e-2ff5-4ef3-9fef-fdb45869c0b1?source=linked_in_profile) _AWS, Dec 2021_
+#### [Oracle Certified Professional: Java SE 11 Developer](https://www.credly.com/badges/7ed5253d-04d3-46de-957d-127b82dbc288/public_url) _Oracle, Dec 2021_
 #### [Professional Scrum Master I](https://www.credly.com/badges/ecf0a225-e9de-458e-8d55-d038dd11ea39/public_url) _scrum.org, December 2018_
 #### [Certified LeSS Practitioner](https://less.works/certificates/hong-nhut-nguyen-57326784351.pdf) _less.works, December 2018_
-#### [Oracle Certified Professional: Java SE 11 Developer](https://www.credly.com/badges/7ed5253d-04d3-46de-957d-127b82dbc288/public_url) _Oracle, Dec 2021_
 #### TOEIC / issued by ETS _ets.org, May 2013, Scored 790_
 
 
