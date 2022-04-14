@@ -14,7 +14,7 @@ Viet Nam | (+84) 982 138 664 | [Linkedin](https://linkedin.com/in/nhut-nguyen-ho
 - Experience with testing using JUnit, Mockito, BDD approaches using Cucumber.
 - Full lifecycle: Refinement, Development ,Testing, Deployment, Monitoring and Incident Solving.
 - Experience working with Agile methodologies for more than 6 years.
-
+* * *
 ## Experience
 
 #### ZUEHLKE / Advance Software Engineer
@@ -66,14 +66,14 @@ vng.com.vn, March 2010 - April 2012 (2 years), Ho Chi Minh
 accenture.com, September 2008 - February 2010 (1 years 5 months), Ho Chi Minh
 > - My first company I joined when I graduated from university, worked for a Japanese outsourcing company.
 > - Develop web applications based on Struts, Java Server Face, Oracle Application Development framework(ADF), EJB, Oracle database.
-
+* * *
 ## Education
 
 #### Science University / Master Degree
 > hcmus.edu.vn, 2011 - 2014,  Ho Chi Minh. Master degree of Science in Information Systems.
 #### Agriculture and Forestry University / Engineering Degree
 > hcmuaf.edu.vn, 2004 -2008,  Ho Chi Minh. Engineering degree in Information Systems.
-
+* * *
 ## Certs
 
 #### [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/7d0fc38e-2ff5-4ef3-9fef-fdb45869c0b1?source=linked_in_profile) _AWS, Dec 2021_
@@ -85,7 +85,7 @@ accenture.com, September 2008 - February 2010 (1 years 5 months), Ho Chi Minh
 
 
 
-
+* * *
 ## Project Examples
 
 #### MoreTyme - Buy now, Pay later
