@@ -1,10 +1,10 @@
-### Nhut Nguyen test branch
+### Nhut Nguyen
 ### Senior Software Developer
 
 > ...with 9+ years of experience in Java technologies. Love to be creative and inventive. Interested in developing products using emerging technologies. Experienced professional with teamwork and communication skills in an Agile way.
 
 
-`Tan Binh district, Ho Chi Minh, Viet Nam` | `(+84) 982 138 664` | `nhutnguyenhong@gmail.com` | [Linkedin](https://linkedin.com/in/nhut-nguyen-hong)
+Viet Nam | (+84) 982 138 664 | [Linkedin](https://linkedin.com/in/nhut-nguyen-hong)
 
 ## Skills
 
