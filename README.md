@@ -15,6 +15,7 @@ Viet Nam | (+84) 982 138 664 | [Linkedin](https://linkedin.com/in/nhut-nguyen-ho
 - Full lifecycle: Refinement, Development ,Testing, Deployment, Monitoring and Incident Solving.
 - Experience working with Agile methodologies for more than 6 years.
 * * *
+
 ## Experience
 
 #### ZUEHLKE / Advance Software Engineer
