@@ -111,6 +111,7 @@ With MoreTyme, the customer pays for it in 3 interest-free installments.
 > -  Development is based on agile methodologies.
 K8s; EKS; Rancher; AWS services: S3, Lambda (Python & NodeJS); Kafka & ksqlDB (Kafka Stream), Cucumber, JUnit, Mockito; Microservices architecture; Rest APIs; Java, Spring Boot; Spring Cloud; Docker.
 
+* * *
 
 #### Xpert.Doc – Document Management
 May 2012 - Jun 2018 (+5 year)
@@ -129,6 +130,7 @@ Xpert.Doc manages the company document. Help upload and download with strictly c
 > -  Development is based on the Scrum framework.
 > -   EJB3, REST, Store-procedure MSSQL/IBM iSeries database, Apache Solr, Angular 1.6, TypeScript, NgTest, Maven, Wildfly server.
 
+* * *
 
 #### Zing Me – me.zing.vn
 July 2018 - August 2021 (+3 years)
@@ -144,6 +146,7 @@ Methods and technologies:
 > - Rest API using Java, JUnit.
 
 
+* * *
 
 #### HR Management Web Application
 September 2008 - February 2010 (+2 years)
