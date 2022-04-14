@@ -20,6 +20,7 @@ Viet Nam | (+84) 982 138 664 | [Linkedin](https://linkedin.com/in/nhut-nguyen-ho
 [zuehlke.com](https://zuehlke.com/), Oct  2021 - Now (6 months+),  Ho Chi Minh
 > - Working as a Full Stack consultant with NodeJS, TypeScript, ReactJS, AWS Services for Singapore client projects.
 
+* * *
 
 #### TYME GLOBAL
 [tyme.com](https://www.tyme.com/), July 2018 - Oct 2021 (3 year+),  Ho Chi Minh
@@ -40,7 +41,7 @@ Viet Nam | (+84) 982 138 664 | [Linkedin](https://linkedin.com/in/nhut-nguyen-ho
 > - Trained and mentored junior developers and engineers, to improve overall team performance.
 > - T-shaped skills: Not only the major back-end skills but also can work with channel sides: ReactJS, Android application.
 
-
+* * *
 
 #### AXON ACTIVE VIETNAM
 [axonactive.com](https://www.axonactive.com/), May 2012 - July 2018 (6 years+), Ho Chi Minh
@@ -55,12 +56,16 @@ Viet Nam | (+84) 982 138 664 | [Linkedin](https://linkedin.com/in/nhut-nguyen-ho
 > - Perform all technical aspects of software development: code , write test cases, delivery and maintenance. 
 > - Deep knowledge of MSSQL Store procedure performance when working with large data.
  
+* * *
+ 
 #### VINAGAME / Social Network Developer
 [vng.com.vn](https://vng.com.vn/), March 2010 - April 2012 (2 years), Ho Chi Minh
 > - Worked as a Back-end Developer for the most famous social network me.zing.vn in Viet Nam.
 > - Familiar with Facebook technologies: Cassandra, Hbase, Infinispan, Memcached, Thrift, Zookeeper Clusters, Scribe Server.
 > - Ensure all services must work in real-time, multi-thread and must be easy to recover from downtime.
  
+* * *
+
 #### ACCENTURE / Software Developer
 [accenture.com](https://accenture.com/), September 2008 - February 2010 (1 years 5 months), Ho Chi Minh
 > - My first company I joined when I graduated from university, worked for a Japanese outsourcing company.
