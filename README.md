@@ -17,12 +17,12 @@ Viet Nam | (+84) 982 138 664 | [Linkedin](https://linkedin.com/in/nhut-nguyen-ho
 ## Experience
 
 #### ZUEHLKE / Advance Software Engineer
-zuehlke.com, Oct  2021 - Now (6 months+),  Ho Chi Minh
+[zuehlke.com](https://zuehlke.com/), Oct  2021 - Now (6 months+),  Ho Chi Minh
 > - Working as a Full Stack consultant with NodeJS, TypeScript, ReactJS, AWS Services for Singapore client projects.
 
 
 #### TYME GLOBAL
-tyme.com, July 2018 - Oct 2021 (3 year+),  Ho Chi Minh
+[tyme.com](https://www.tyme.com/), July 2018 - Oct 2021 (3 year+),  Ho Chi Minh
 
 
 ##### Technical Leader _July 2020 - Oct 2021 (1 year+)_
@@ -43,7 +43,7 @@ tyme.com, July 2018 - Oct 2021 (3 year+),  Ho Chi Minh
 
 
 #### AXON ACTIVE VIETNAM
-axonactive.com, May 2012 - July 2018 (6 years+), Ho Chi Minh
+[axonactive.com](https://www.axonactive.com/), May 2012 - July 2018 (6 years+), Ho Chi Minh
 
 ##### Scrum Master _Feb 2018 - Jun 2018 (5 month)_
 > Manage the scrum framework for the team. And also spend a half of time developing and mentor.
@@ -56,13 +56,13 @@ axonactive.com, May 2012 - July 2018 (6 years+), Ho Chi Minh
 > - Deep knowledge of MSSQL Store procedure performance when working with large data.
  
 #### VINAGAME / Social Network Developer
-vng.com.vn, March 2010 - April 2012 (2 years), Ho Chi Minh
+[vng.com.vn](https://vng.com.vn/), March 2010 - April 2012 (2 years), Ho Chi Minh
 > - Worked as a Back-end Developer for the most famous social network me.zing.vn in Viet Nam.
 > - Familiar with Facebook technologies: Cassandra, Hbase, Infinispan, Memcached, Thrift, Zookeeper Clusters, Scribe Server.
 > - Ensure all services must work in real-time, multi-thread and must be easy to recover from downtime.
  
 #### ACCENTURE / Software Developer
-accenture.com, September 2008 - February 2010 (1 years 5 months), Ho Chi Minh
+[accenture.com](https://accenture.com/), September 2008 - February 2010 (1 years 5 months), Ho Chi Minh
 > - My first company I joined when I graduated from university, worked for a Japanese outsourcing company.
 > - Develop web applications based on Struts, Java Server Face, Oracle Application Development framework(ADF), EJB, Oracle database.
 
